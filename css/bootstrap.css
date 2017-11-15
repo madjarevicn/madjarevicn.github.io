@@ -4000,6 +4000,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   cursor: not-allowed;
   background-color: transparent;
 }
+div{
+  height: 100px;
+  width: auto;
+}
 .nav .open > a,
 .nav .open > a:hover,
 .nav .open > a:focus {
